@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      <h1>Buscador de Bebidas</h1>
+      <h1 className="text-4xl">Buscador de Bebidas</h1>
     </>
   )
 }
